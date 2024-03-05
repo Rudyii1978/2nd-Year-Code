@@ -1,0 +1,11 @@
+public class Fibonnaci{
+	public static void main(String args[]){
+		Scanner input = new Scanner(System.in);
+		int firstNumber = 0;
+		int secondNumber = 1;
+		int otherNumber;
+
+		System.out.print("Enter the number of elements you want in your fibonnaci sequence: ");
+		
+	}
+}
